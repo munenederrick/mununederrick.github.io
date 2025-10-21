@@ -40,9 +40,6 @@ A digital system to manage ICT equipment inventory and track asset utilization.
 📍 Thika, Kenya  
 📧 [munenederrick37@gmail.com](mailto:munenederrick37@gmail.com)  
 💼 [LinkedIn](https://www.linkedin.com/in/derrick-ng-ang-a-8108b7259)   
----
-
-⭐️ *“Technology with purpose — building solutions that empower people and organizations.”* 
 
 ---
 
