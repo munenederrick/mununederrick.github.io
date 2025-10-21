@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Derrick Munene Ng'ang'a 
+# Hi, I'm Derrick Munene Ng'ang'a 
 ### 💻 ICT & Systems Support | Software Developer  
 
 I’m a dedicated and results-driven professional with a strong background in ICT support, data management, and software development.  
